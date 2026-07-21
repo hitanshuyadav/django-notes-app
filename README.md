@@ -13,7 +13,7 @@ git clone https://github.com/LondheShubham153/django-notes-app.git
 ```
 
 2. Build the app
-3. yes
+3. no
 ```
 docker build -t notes-app .
 ```
